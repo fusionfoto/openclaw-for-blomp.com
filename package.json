@@ -1,0 +1,16 @@
+{
+  "name": "openclaw-plugin-blomp-swift",
+  "version": "1.0.0",
+  "description": "OpenClaw plugin for Blomp Cloud Storage (OpenStack Swift)",
+  "main": "plugin.js",
+  "types": "plugin.d.ts",
+  "scripts": {
+    "build": "tsc"
+  },
+  "keywords": ["openclaw", "plugin", "blomp", "swift", "openstack", "object-storage"],
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.4.0",
+    "@types/node": "^20.0.0"
+  }
+}
